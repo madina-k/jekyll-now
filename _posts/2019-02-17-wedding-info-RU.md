@@ -1,6 +1,6 @@
 ---
-title: wedding_post_ru
 layout: post
+title: wedding_post_ru
 ---
 
 # Свадьба Маттео и Мадины: планирование путешествия
