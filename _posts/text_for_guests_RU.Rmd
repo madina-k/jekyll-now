@@ -1,11 +1,7 @@
 ---
 title: "Свадьба Маттео и Мадины: планирование путешествия"
 # author: "Madina + Matteo"
-output: 
-  html_document:
-    toc: true
-    toc_depth: 3
-    toc_float: true
+layout: post
 ---
 
 <!-- # Свадьба Маттео и Мадины: планирование путешествия -->
