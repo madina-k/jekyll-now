@@ -1,5 +1,5 @@
 ---
-title: "Свадьба Маттео и Мадины: планирование путешествия"
+title: wedding_post_ru
 layout: post
 ---
 
