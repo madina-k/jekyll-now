@@ -159,7 +159,7 @@ __Авиалинии:__
 * [Lido di Jesolo](https://goo.gl/maps/zGHtWt1wwxN2)
 * [Lignano Sabbiadoro](https://goo.gl/maps/89S4RScYhxw)
 
-Больше информации о пляжах в регионе Венето вы можете найти здесь: [https://ciao.citalia.com/destination/beaches-in-veneto/](https://ciao.citalia.com/destination/beaches-in-veneto/)
+Больше информации о пляжах в регионе Венето вы можете найти здесь: [инфо на англ](https://ciao.citalia.com/destination/beaches-in-veneto/)
 
 ![](../images/caorle.jpg) 
 
