@@ -9,7 +9,7 @@ name: Madina Kurmangaliyeva
 description: Personal blog 
 
 # URL of your avatar or profile pic (you could use your GitHub profile pic)
-avatar: {% avatar hubot %}
+avatar: {% avatar [madina-k] %}
 
 #
 # Flags below are optional
